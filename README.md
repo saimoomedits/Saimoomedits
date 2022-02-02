@@ -1,7 +1,4 @@
 ### Hi there, just another linux enthusiast..
-<h1 align="center">
-	<img src="https://tenor.com/bvIyp.gif"  height="200" alt="header"/><br/></h3>
-
 <!--
 **saimoomedits/Saimoomedits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
