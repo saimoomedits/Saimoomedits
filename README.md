@@ -1,4 +1,4 @@
-<h1 align="center">helllooo</h1>
+<h1 align="left">hey there dude!</h1>
 
 <p><img align="right" src="https://user-images.githubusercontent.com/72156551/152335630-1c095502-a85c-4e16-827d-b853ff4b100a.gif" alt="wind" height="312" width="412"></p>
 <h3> my passion is to customize gnu/linux, ricing, make amazing tools and support the FOSS community. I love learning something new and powerfull. </h3>
