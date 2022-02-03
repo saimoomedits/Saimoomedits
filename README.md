@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimoomedits&show_icons=true&locale=en&layout=compact" alt="saimoomedits" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimoomedits&show_icons=true&locale=en" alt="saimoomedits" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saimoomedits&show_icons=true&locale=en" alt="saimoomedits" /></p>
