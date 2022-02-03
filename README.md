@@ -4,7 +4,6 @@
 
 ![giphy](https://user-images.githubusercontent.com/72156551/152335630-1c095502-a85c-4e16-827d-b853ff4b100a.gif)
 </p>
-
 and my passion is to customize gnu/linux, ricing, make amazing tools and support the FOSS community.
 
 - 🌱 I’m currently learning **C++ and rust**
