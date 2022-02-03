@@ -3,7 +3,7 @@
 ![giphy](https://user-images.githubusercontent.com/72156551/152333214-83b8cbb3-0ef0-4d40-995b-1fe5d17f1859.gif)
 
 <h3 align="right">
-### Hi there, I am just another linux enthusias who likes ricing and customizing. I currently use arch. but planning to move on to void.
+Hi there, I am just another linux enthusias who likes ricing and customizing. I currently use arch. but planning to move on to void.
  
 currently I know C, python, shell-scripting, etc. 
 . I am learning C++, lua, rust.
