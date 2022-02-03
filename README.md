@@ -1,9 +1,6 @@
 <h1 align="center">helllooo</h1>
 
-<p align="left">
-<img src="https://user-images.githubusercontent.com/72156551/152335630-1c095502-a85c-4e16-827d-b853ff4b100a.gif" alt="wind">
-</p>
-
+<img align="left" src="https://user-images.githubusercontent.com/72156551/152335630-1c095502-a85c-4e16-827d-b853ff4b100a.gif" alt="wind">
 ## my passion is to customize gnu/linux, ricing, make amazing tools and support the FOSS community. I love learning something new and powerfull. 
 
 - 🌱 I’m currently learning **C++ and rust**
