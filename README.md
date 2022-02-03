@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saimoom</h1>
-<h3 align="center">and my passion is to customiz gnu/linux, ricing, make amazing tools and support the FOSS community.</h3>
+<h3 align="center">and my passion is to customize gnu/linux, ricing, make amazing tools and support the FOSS community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimoomedits&label=Profile%20views&color=0e75b6&style=flat" alt="saimoomedits" /> </p>
 
