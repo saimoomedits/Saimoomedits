@@ -1,4 +1,4 @@
-![giphy](https://user-images.githubusercontent.com/72156551/152332516-9893096b-010a-4628-9802-bed8380929c9.gif)
+![giphy](https://user-images.githubusercontent.com/72156551/152333214-83b8cbb3-0ef0-4d40-995b-1fe5d17f1859.gif)
 
 
 ### Hi there, just another linux enthusiast..
