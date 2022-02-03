@@ -1,9 +1,12 @@
 <h1 align="left">hey there dude!</h1>
 
-<a href="https://www.reddit.com/r/unixporn/comments/sh2lme/bspwm_levuaska_my_attempt_on_making_a_color_scheme/"> <img align="right" alt="rice" src="https://user-images.githubusercontent.com/72156551/152348498-522abf45-5c35-4bbd-83a9-40e4e1bea2e0.gif" height="200"> </a>
+<img src="https://user-images.githubusercontent.com/72156551/152354079-20c63893-d73b-45d9-bbd5-0ac952170efe.gif" alt="cat" height="200" align="right">
 
 
-<!-- <p><img align="right" src="https://user-images.githubusercontent.com/72156551/152335630-1c095502-a85c-4e16-827d-b853ff4b100a.gif" alt="wind" height="312" width="412"></p> -->
+<!-- <a href="https://www.reddit.com/r/unixporn/comments/sh2lme/bspwm_levuaska_my_attempt_on_making_a_color_scheme/"> <img align="right" alt="rice" src="https://user-images.githubusercontent.com/72156551/152348498-522abf45-5c35-4bbd-83a9-40e4e1bea2e0.gif" height="200"> </a>
+
+
+<p><img align="right" src="https://user-images.githubusercontent.com/72156551/152335630-1c095502-a85c-4e16-827d-b853ff4b100a.gif" alt="wind" height="312" width="412"></p> -->
 <h3> my passion is to customize gnu/linux, ricing, make amazing tools and support the FOSS community. I love learning something new and useful. </h3>
 
 
