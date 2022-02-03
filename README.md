@@ -13,4 +13,4 @@
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saimoomedits&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saimoomedits">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=saimoomedits&show_icons=true&theme=tokyonight&locale=en&hide=contrib" alt="saimoomedits">
+<img  src="https://github-readme-stats.vercel.app/api?username=saimoomedits&show_icons=true&theme=dracula&locale=en&hide=contribs" alt="saimoomedits">
