@@ -3,7 +3,7 @@
 <img align="right" alt="rice" src="https://user-images.githubusercontent.com/72156551/152348498-522abf45-5c35-4bbd-83a9-40e4e1bea2e0.gif">
 
 
-<!--> <p><img align="right" src="https://user-images.githubusercontent.com/72156551/152335630-1c095502-a85c-4e16-827d-b853ff4b100a.gif" alt="wind" height="312" width="412"></p> </!-->
+<!-- <p><img align="right" src="https://user-images.githubusercontent.com/72156551/152335630-1c095502-a85c-4e16-827d-b853ff4b100a.gif" alt="wind" height="312" width="412"></p> -->
 <h3> my passion is to customize gnu/linux, ricing, make amazing tools and support the FOSS community. I love learning something new and powerfull. </h3>
 
 
