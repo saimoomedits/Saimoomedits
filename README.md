@@ -19,4 +19,4 @@
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saimoomedits&show_icons=true&locale=en&layout=compact&theme=dracula" alt="saimoomedits"> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=saimoomedits&show_icons=true&theme=dracula&locale=en&hide=contribs" alt="saimoomedits" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=saimoomedits&show_icons=true&theme=dracula&locale=en&hide=contribs" alt="saimoomedits" align="center">
