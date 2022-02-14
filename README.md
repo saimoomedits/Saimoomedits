@@ -1,7 +1,9 @@
 <h1 align="left">Hi :0</h1>
 
-<img src="https://user-images.githubusercontent.com/72156551/152354986-4df80ced-0389-4aff-8f39-5121ff944b66.gif" alt="cat" height="200" align="right">
+<!-- <img src="https://user-images.githubusercontent.com/72156551/152354986-4df80ced-0389-4aff-8f39-5121ff944b66.gif" alt="cat" height="200" align="right"> -->
 
+
+<img src="https://user-images.githubusercontent.com/72156551/153853124-5917d8bc-d859-4fb9-9e9d-a8d15da52ec8.gif" alt="dani" height="200" align="right">
 
 <!-- <a href="https://www.reddit.com/r/unixporn/comments/sh2lme/bspwm_levuaska_my_attempt_on_making_a_color_scheme/"> <img align="right" alt="rice" src="https://user-images.githubusercontent.com/72156551/152348498-522abf45-5c35-4bbd-83a9-40e4e1bea2e0.gif" height="200"> </a>
 
