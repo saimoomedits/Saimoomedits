@@ -40,7 +40,7 @@ ___
  
  ___
  
-</div>
+<!-- </div>
 
 <div align="center">
  <p> <b> Pinned repo </p> </b>
@@ -50,5 +50,5 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimoomedits&repo=bspwm-first-rice&bg_color=12131c&border_color=00000000&text_color=afcee0&icon_color=afcee0&title_color=b5e8e0)](https://github.com/saimoomedits/bspwm-first-rice" alt="pin" align="center" >
 
 
- </div>
+</div> -->
 
