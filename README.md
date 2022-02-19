@@ -22,5 +22,5 @@
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saimoomedits&show_icons=true&locale=en&layout=compact&theme=dracula" alt="saimoomedits"> -->
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?bg_color=00000000&icon_color=afcee0&title_color=a1bdce&text_color=afcee0&border_color=00000000&username=saimoomedits&show_icons=true&locale=en&hide=contribs" alt="saimoomedits" align="center">
+<img src="https://github-readme-stats.vercel.app/api?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=saimoomedits&show_icons=true&locale=en&hide=contribs" alt="saimoomedits" align="center">
 </div>
