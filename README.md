@@ -21,7 +21,7 @@ ___
 
 <p align="center">
   <b> 
-   Hey there, welcome to my profile readme. I am linux enthusiast and software developer.
+   Hey there, welcome to my profile readme. I am a linux enthusiast and software developer.
    <br>
    I am currently learning rust and working on a new rice.
   </b><br><br>
