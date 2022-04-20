@@ -1,4 +1,4 @@
- ---
+
  
  <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
  <br>
@@ -11,7 +11,13 @@
 
 <br>
 
-<p align="center"><b><samp> ~ 🌙 ☀️ ✨ 💻 ~ </samp></b></p>
+<p align="center"><b><samp> - 
+ <a href="https://reddit.com">🌙 reddit </a>
+ ~
+ <a href="https://reddit.com"> ✨ discord </a>
+ ~
+ <a href="https://github.com/saimoomedits"> ☀️ github </a> 
+ - </samp></b></p>
 
 <br>
 
