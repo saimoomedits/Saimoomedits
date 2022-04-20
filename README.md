@@ -12,9 +12,9 @@
 <br>
 
 <p align="center"><b><samp> - 
- <a href="https://reddit.com">🌙 reddit </a>
+ <a href="https://www.reddit.com/user/Significant-Image768">🌙 reddit </a>
  ~
- <a href="https://reddit.com"> ✨ discord </a>
+ <a href="https://discord.com/810110406390448159"> ✨ discord </a>
  ~
  <a href="https://github.com/saimoomedits"> ☀️ github </a> 
  - </samp></b></p>
