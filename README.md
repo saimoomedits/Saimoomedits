@@ -4,10 +4,9 @@
  <br>
 
  <p align="center">
-    <samp>
       Hello, I am saimoomedits(Harry)<br>
-      I am a lua fan, front-end dev and Linux enthusiast<br>
-    </samp>
+      <br>
+      <samp>I am a lua fan, front-end dev and Linux enthusiast<br></samp>
   </p>
 
 <br>
